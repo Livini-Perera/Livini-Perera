@@ -2,37 +2,23 @@
 
 <img src= "https://github.com/Livini-Perera/Livini-Perera/blob/c4fd7b01fc5cc0f86709b78cd8f38ac868eb1f5f/girl%20walking.gif" width="100"/>
 
- <h1>
+ # 👋 <span style="color: #6200ea;">Hi, I'm Budara Livini!</span>
 
-  👋 Hi, I’m @JenniWhewell
+😄 <span style="color: #00bcd4;">Pronouns:</span> She/Her
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+- 🔭 <span style="color: #ff5722;">I’m currently working on</span> [GitHub Portfolio](https://github.com/BudaraLivini) and other computer science projects.</span>
+- 🌱 <span style="color: #4caf50;">I am an undergraduate student at the University of South Wales, pursuing a degree in Computer Science.
+- 👯 <span style="color: #03a9f4;">I’m looking to collaborate on</span> open-source projects related to environmental sustainability.
+- 🤔 <span style="color: #e91e63;">I’m looking for help with</span> improving my skills in object-oriented programming and building practical projects in C++.
+- 💬 <span style="color: #9c27b0;">Ask me about</span> my journey as a Computer Science student, or let’s discuss ideas for sustainability and tech!
+- 📫 <span style="color: #ff9800;">How to reach me:</span> [Email](mailto:budaraperera103@gmail.com)
 
- </h1>
-
-</div>
-
-<div align="center">
-
- <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
-
-</div>
-
-
-
----
-
-
-
-### :woman_technologist: About Me :
-
-👀 About me: I am a Computer Science Lecturer!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
-<br>
-
-🌱 What I am doing: I teach on a number of different modules ranging from Programming in C++ to Parallel and Concurrent Programming
-
-<br>
+- 🎨 <span style="color: #ff69b4;">Hobbies:</span> 
+  - 📖 Reading novels
+  - 🌍 Traveling to explore new cultures and landscapes.
+  - 🎬 Watching films, especially thought-provoking or feel-good ones
+  - 🍳 Trying out new recipes.
+- ⚡ <span style="color: #795548;">Fun fact:</span> I’ve always wanted to visit Switzerland, inspired by the novel *Heidi*! 😊 ![icegif-4145](https://github.com/user-attachments/assets/8ceb9bec-cdd0-407e-ada5-ba80ad2641fa)
 
 💞️ Skillset: I am a trained Data Scientist skilled in R, C++, SQL, and Python
 
