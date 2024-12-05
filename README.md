@@ -4,7 +4,7 @@
 
  # 👋 <span style="color: #6200ea;">Hi, I'm Budara Livini!</span>
 
-##😄 <span style="color: #00bcd4;">Pronouns:</span> She/Her
+## 😄 <span style="color: #00bcd4;">Pronouns:</span> She/Her
 
 <div align="left">
 
