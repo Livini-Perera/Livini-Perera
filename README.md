@@ -17,3 +17,4 @@
 - ⚡ <span style="color: #795548;">Fun fact:</span> I’ve always wanted to visit Switzerland, inspired by the novel *Heidi*! 😊
 
  # ![R](https://github.com/user-attachments/assets/af9d3ed8-2594-4ecb-9904-b1c48f58d2a6)
+ ![icegif-4145](https://github.com/user-attachments/assets/8ceb9bec-cdd0-407e-ada5-ba80ad2641fa)   ![icegif-4145](https://github.com/user-attachments/assets/8ceb9bec-cdd0-407e-ada5-ba80ad2641fa)  ![icegif-4145](https://github.com/user-attachments/assets/8ceb9bec-cdd0-407e-ada5-ba80ad2641fa)
