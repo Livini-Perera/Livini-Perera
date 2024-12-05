@@ -6,7 +6,7 @@
 
 😄 <span style="color: #00bcd4;">Pronouns:</span> She/Her
 
-<div align="right">
+<div align="left">
 
 - 🔭 <span style="color: #ff5722;">I’m currently working on</span> [GitHub Portfolio](https://github.com/BudaraLivini) and other computer science projects.</span>
 - 🌱 <span style="color: #4caf50;">I am an undergraduate student at the University of South Wales, pursuing a degree in Computer Science.
