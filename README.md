@@ -8,9 +8,9 @@
 - 💬 <span style="color: #9c27b0;">Ask me about</span> my journey as a Computer Science student, or let’s discuss ideas for sustainability and tech!
 - 📫 <span style="color: #ff9800;">How to reach me:</span> [Email](mailto:budaraperera103@gmail.com)
 
-- - 🎨 <span style="color: #ff69b4;">Hobbies:</span> 
-  - 🎵 Singing (beginner level, but loving it!)
-  - 📖 Reading novels (favorites include *Heidi*).
-  - 🌍 Exploring sustainable energy solutions.
+- 🎨 <span style="color: #ff69b4;">Hobbies:</span> 
+  - 📖 Reading novels
+  - 🌍 Traveling to explore new cultures and landscapes.
+  - 🎬 Watching films, especially thought-provoking or feel-good ones
   - 🍳 Trying out new recipes.
 - ⚡ <span style="color: #795548;">Fun fact:</span> I’ve always wanted to visit Switzerland, inspired by the novel *Heidi*! 😊
