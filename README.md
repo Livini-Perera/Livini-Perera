@@ -1,4 +1,6 @@
 # 👋 <span style="color: #6200ea;">Hi, I'm Budara Livini!</span>
+![Screenshot 2024-10-25 223555](https://github.com/user-attachments/assets/9d1eed98-4195-4e16-9e09-567a105af4a9)
+
 ![Alt text](https://github.com/Livini-Perera/Livini-Perera)
 😄 <span style="color: #00bcd4;">Pronouns:</span> She/Her
 
