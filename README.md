@@ -1,5 +1,5 @@
 # 👋 <span style="color: #6200ea;">Hi, I'm Budara Livini!</span>
-![Profile Picture](Screenshot 2024-10-25 223555.png)
+![Screenshot 2024-10-25 223555.png](Screenshot 2024-10-25 223555.png)
 😄 <span style="color: #00bcd4;">Pronouns:</span> She/Her
 
 - 🔭 <span style="color: #ff5722;">I’m currently working on</span> [GitHub Portfolio](https://github.com/BudaraLivini) and other computer science projects.</span>
