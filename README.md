@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-<img src= "https://github.com/Livini-Perera/Livini-Perera/blob/c4fd7b01fc5cc0f86709b78cd8f38ac868eb1f5f/girl%20walking.gif" width="100"/>
+<img src= "https://github.com/Livini-Perera/Livini-Perera/blob/c4fd7b01fc5cc0f86709b78cd8f38ac868eb1f5f/girl%20walking.gif" width="400"/>
 
  # 👋 <span style="color: #6200ea;">Hi, I'm Budara Livini!</span>
 
@@ -20,6 +20,6 @@
   - 🌍 Traveling to explore new cultures and landscapes.
   - 🎬 Watching films, especially thought-provoking or feel-good ones
   - 🍳 Trying out new recipes.
-- ⚡ <span style="color: #795548;">Fun fact:</span> I’ve always wanted to visit Switzerland, inspired by the novel *Heidi*! 😊 ![icegif-4145](https://github.com/user-attachments/assets/8ceb9bec-cdd0-407e-ada5-ba80ad2641fa)
+- ⚡ <span style="color: #795548;">Fun fact:</span> I’ve always wanted to visit Switzerland, inspired by the novel *Heidi*! 😊 
 
 </div>
