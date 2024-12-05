@@ -74,7 +74,6 @@
         <section>
             <h2>Contact</h2>
             <p>Email: <a href="mailto:budaralivini@example.com">budaralivini@example.com</a></p>
-            <p>LinkedIn: <a href="https://www.linkedin.com/in/budaralivini" target="_blank">linkedin.com/in/budaralivini</a></p>
             <p>GitHub: <a href="https://github.com/BudaraLivini" target="_blank">github.com/BudaraLivini</a></p>
         </section>
     </main>
