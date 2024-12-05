@@ -21,6 +21,7 @@
   - 🎬 Watching films, especially thought-provoking or feel-good ones
   - 🍳 Trying out new recipes
 - ⚡ <span style="color: #795548;">Fun fact:</span> I’ve always wanted to visit Switzerland, inspired by the novel *Heidi*! 😊 <br>
+   <div style="text-align: center;">
    <img src= "https://github.com/Livini-Perera/Livini-Perera/blob/b286e081e2e1028f25592105d7cbde6e7bad9674/book-56.gif" width ="100" align="center">
-
+</div>
 </div>
