@@ -1,6 +1,6 @@
 # 👋 <span style="color: #6200ea;">Hi, I'm Budara Livini!</span>
 
-- 🔭 <span style="color: #ff5722;">I’m currently working on</span> [GitHub Portfolio](https://github.com/BudaraLivini) and other computer science projects.
+- 🔭 <span style="color: #ff5722;">I’m currently working on</span> [GitHub Portfolio](https://github.com/BudaraLivini) and other computer science projects.</span>
 - 🌱 <span style="color: #4caf50;">I am an undergraduate student at the University of South Wales, pursuing a degree in Computer Science.
 - 👯 <span style="color: #03a9f4;">I’m looking to collaborate on</span> open-source projects related to environmental sustainability.
 - 🤔 <span style="color: #e91e63;">I’m looking for help with</span> mastering object-oriented programming in C++.
