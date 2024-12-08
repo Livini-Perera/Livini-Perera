@@ -1,7 +1,11 @@
-<div style="background-color: lightblue; padding: 20px; text-align: center;">
+<div style="background-image: url('Screenshot 2024-10-25 223555.png'); 
+            background-size: cover; 
+            padding: 50px; 
+            text-align: center; 
+            color: white;">
 
 # Welcome to My Page
 
-The background color of this section is light blue.
+This section has a background image!
 
 </div>
