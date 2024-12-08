@@ -1,7 +1,8 @@
-# <img src="waving hand.gif">
- Hi, I'm Budara Livini! 
+<header style="width: 100%; height: 10px;">
+  <img src="Header.gif" alt="Header Image" style="width: 100%; height: 20%;" />
+</header>
 
-Welcome to my GitHub profile! I'm a **Computer Science student** 🖥️, a budding **caregiver**, and a creative thinker who loves exploring new ideas and technologies. 
+I'm a **Computer Science student** 🖥️, a budding **caregiver**, and a creative thinker who loves exploring new ideas and technologies. 
 
 🌟 Here's a little more about me:
 
