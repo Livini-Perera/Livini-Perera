@@ -126,7 +126,7 @@ Outside of coding and tech, I'm a sensitive and emotional person who finds inspi
 
 ## 📫 Connect with Me
 - **GitHub**: [Livini-Perera](https://github.com/Livini-Perera)
-- **Email**: [budaraperera103@gmail.com](budaraperera103@gmail.com)
+- **Email**: [budaraperera103@gmail.com](mailto:budaraperera103@gmail.com)
 
 <header style="width: 100%; height: 10px;">
   <img src="Untitled design.png" alt="Header Image" style="width: 100%; height: 20%;" />
