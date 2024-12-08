@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Budara Livini! 
+# <img src="waving hand.gif">
+ Hi, I'm Budara Livini! 
 
 Welcome to my GitHub profile! I'm a **Computer Science student** 🖥️, a budding **caregiver**, and a creative thinker who loves exploring new ideas and technologies. 
 
