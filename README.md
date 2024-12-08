@@ -8,4 +8,7 @@
 
 This section has a background image!
 
+<img src="Screenshot 2024-10-25 223555.png" alt="Description of the image" style="width:50%; height:auto;">
+
+
 </div>
