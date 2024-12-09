@@ -2,7 +2,7 @@
   <img src="Header.gif" alt="Header Image" style="width: 100%; height: 20%;" />
 </header>
 
-I'm a **Computer Science student** 🖥️ and a creative thinker who loves exploring new ideas and technologies. 
+I'm a **Computer Science student** 🖥️ at the **University of South Wales**🎓 and a creative thinker who loves exploring new ideas and technologies. 
 
 🌟 Here's a little more about me:
 
@@ -11,10 +11,11 @@ I'm a **Computer Science student** 🖥️ and a creative thinker who loves expl
 </header>
 
 ## 🌈 About Me
-- 🌍 I recently moved to the **UK** and am currently staying with my aunt.
-- 💼 I work as a receptionist in a **care home** while pursuing my academic passions.
-- 📚 Avid reader.
-- 💡 Currently building my skills in **C++**, **database systems**, and **web development**.
+- 🌍 I recently moved to the **UK** from **Sri Lanka**, a beautiful island in the Indian Ocean, and I’m currently staying with my aunt while adjusting to my new surroundings.
+- 💼 I work as a receptionist in a **care home**, where I enjoy helping others and honing my communication skills.
+- 📚 I’m an avid reader with a passion for personal growth, technology, and sustainability.
+- 💡 I’m actively learning `C++`, `database systems`, and `web development`, aiming to build a solid foundation for my future career.
+
 
 <header style="width: 100%; height: 10px;">
   <img src="Untitled design.png" alt="Header Image" style="width: 100%; height: 20%;" />
@@ -23,28 +24,28 @@ I'm a **Computer Science student** 🖥️ and a creative thinker who loves expl
 ## 🛠️ Skills
 
 ### **Programming Languages**  
-- **C++**: Currently learning object-oriented programming (OOP), data structures, and algorithms. Working on building console applications and improving understanding of functions, classes, and file handling.
-- **Python**: Familiar with Python for scripting, automation, and web development. Strong foundation in libraries like `numpy`, `pandas`, and `matplotlib` for data analysis and visualization.
+- **C++**: Currently learning object-oriented programming (OOP), data structures, and algorithms. Working on building console applications and improving understanding of functions, classes, and file handling. 📚💻
+- **Python**: Familiar with Python for scripting, automation, and web development. 🐍🔧
 
 ### **Database Management**  
-- **SQL**: Still learning SQL, focusing on writing complex queries, managing databases, and understanding relational database concepts.
-- **ERD Design**: Ability to design efficient entity-relationship diagrams (ERD) for clear database architecture, ensuring data integrity and proper relationship handling.
+- **SQL**: Still learning SQL, focusing on writing complex queries, managing databases, and understanding relational database concepts. 📊💾
+- **ERD Design**: Ability to design efficient entity-relationship diagrams (ERD) for clear database architecture, ensuring data integrity and proper relationship handling. 📐📅
 
 ### **Web Development**  
-- **HTML**: Proficient in building semantic and responsive web pages. Familiar with the latest HTML5 standards and best practices for accessibility and SEO.
-- **Markdown**: Expertise in creating clean and organized documentation with Markdown, including writing professional README files for projects and GitHub repositories.
+- **HTML**: Proficient in building semantic and responsive web pages. 🌐🖥️
+- **Markdown**: Expertise in creating clean and organized documentation with Markdown, including writing professional README files for projects and GitHub repositories. 📝📋
 
 ### **Creative Tools**  
-- **Adobe Photoshop**: Experienced in graphic design and photo editing, creating custom visuals for web pages, presentations, and social media.
-- **Canva**: Skilled in using Canva for quick and creative design work, including social media posts, infographics, and presentations.
+- **Adobe Photoshop**: Experienced in graphic design and photo editing, creating custom visuals for web pages, presentations, and social media. 🎨📸
+- **Canva**: Skilled in using Canva for quick and creative design work, including social media posts, infographics, and presentations. 🖌️📊
 
 ### **Soft Skills**  
-- **Problem-Solving**: Strong analytical and troubleshooting skills with a keen ability to break down complex problems into manageable tasks, leading to effective solutions.
-- **Teamwork**: Collaborative team player, able to communicate and work effectively with others to achieve common goals, whether in development or creative projects.
-- **Adaptability**: Comfortable in dynamic environments, willing to learn new technologies and methods to meet project requirements.
-- **Time Management**: Capable of prioritizing tasks and managing multiple projects efficiently to meet deadlines while maintaining high-quality work.
-- **Communication**: Clear communicator, able to explain technical concepts to both technical and non-technical audiences.
-- **Empathy**: Strong emotional intelligence that enhances teamwork and user-centric development, ensuring projects align with user needs and values.
+- **Problem-Solving**: Strong analytical and troubleshooting skills with a keen ability to break down complex problems into manageable tasks, leading to effective solutions. 🧠🔍
+- **Teamwork**: Collaborative team player, able to communicate and work effectively with others to achieve common goals, whether in development or creative projects. 🤝👥
+- **Adaptability**: Comfortable in dynamic environments, willing to learn new technologies and methods to meet project requirements. 🔄🌱
+- **Time Management**: Capable of prioritizing tasks and managing multiple projects efficiently to meet deadlines while maintaining high-quality work. ⏰📅
+- **Communication**: Clear communicator, able to explain technical concepts to both technical and non-technical audiences. 💬📢
+- **Empathy**: Strong emotional intelligence that enhances teamwork and user-centric development, ensuring projects align with user needs and values. 💖🤗
 
 
 <header style="width: 100%; height: 10px;">
@@ -94,23 +95,23 @@ I'm a **Computer Science student** 🖥️ and a creative thinker who loves expl
 
 ---
 
-### **Other Notable Projects in C++**
-- **Monthly Income Calculator**: Developed a program that calculates the total salary after considering allowances and deductions.
-- **Coin Toss Game**: A fun interactive program that randomly generates a coin toss result and compares it with user input, adding an element of gamification.
-- **Rainfall Analyzer**: A program that reads a file containing monthly rainfall data and computes the average rainfall for each month.
-- **Time Converter**: A program that accepts user input for time and displays it in both 12-hour and 24-hour formats, utilizing classes, objects, and functions, while also providing a personalized greeting.
-- **Average Velocity Calculator**: Designed a program that calculates the average speed based on user-defined functions, enhancing problem-solving skills in programming.
-- **Isosceles Triangle Geometry**: A program that calculates the area and perimeter of an isosceles triangle using object-oriented programming concepts like classes and objects.
+### **Other Notable Projects in C++**  
+- **Monthly Income**: Developed a program to calculate the total pay after the allowances and deductions. 💵🧮
+- **Coin Toss**: A program to randomly generate a number and tally it with the user input to create gamification. 🎲🤖
+- **Rainfall**: A program to read a file and output average rainfall for months accordingly. ☔📅
+- **Time**: A program to get user input for time and display it in 12 hr format and 24 hr format using classes, objects, constructors, and functions, and display greetings accordingly. 🕒🎉
+- **Average Velocity Calculator**: Developed a program to calculate average speed using user-defined functions. 🚗💨
+- **Isosceles Triangle**: A program to calculate the area and the perimeter of a triangle using classes and objects. 🔺📐
 
 <header style="width: 100%; height: 10px;">
   <img src="Untitled design.png" alt="Header Image" style="width: 100%; height: 20%;" />
 </header>
 
-## 🎯 Goals for 2024
+## **🎯 Goals for 2024**
 - 🌟 Master advanced C++ concepts (like classes, constructors, and objects).
-- 🌍 Travel to **Switzerland** to fulfill my childhood dream.
-- 💻 Build and deploy a full-stack web application.
-- 📜 Expand my knowledge in **sustainable energy solutions**.
+- 📚 Deepen my understanding of **SQL** and database management to enhance my technical skills.
+- ✈️ Travel to **France** and **Italy** to explore new cultures, languages, and experiences.
+
 
 <header style="width: 100%; height: 10px;">
   <img src="Untitled design.png" alt="Header Image" style="width: 100%; height: 20%;" />
@@ -133,10 +134,12 @@ Outside of coding and tech, I'm a sensitive and emotional person who finds inspi
 </header>
 
 ## 🎨 Hobbies
-- 🎤 Singing
+
 - 📖 Reading
-- ✍️ Writing digital stories
 - 🎨 Designing presentations and creative content
+- 🎬 Watching movies
+- 🚶‍♀️ Walking
+- 🚴‍♀️ Cycling
 
 <header style="width: 100%; height: 10px;">
   <img src="Untitled design.png" alt="Header Image" style="width: 100%; height: 20%;" />
@@ -150,4 +153,8 @@ Outside of coding and tech, I'm a sensitive and emotional person who finds inspi
   <img src="Untitled design.png" alt="Header Image" style="width: 100%; height: 20%;" />
 </header>
 
-Thank you for stopping by! 💜 Feel free to explore my repositories and connect with me!
+## Thank you for stopping by! 💜 Feel free to explore my repositories and connect with me!
+
+<header style="width: 100%; height: 10px;">
+  <img src="new.gif" alt="Header Image" style="width: 100%; height: 20%;" />
+</header>
